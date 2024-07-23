@@ -1,0 +1,117 @@
+{
+  "users": [
+    {
+      "email": "xepufisoja@mailinator.com",
+      "password": "$2a$10$oKrKLNprTdz3jXnvn.1SbOoKqIwDfnrF3dqbsXzSYvKiHL9mBMHye",
+      "name": "admin",
+      "id": 3,
+      "role": "admin"
+    },
+    {
+      "email": "deqiqon@mailinator.com",
+      "password": "$2a$10$.Q09sRbe7bvQI6PerBODH.BoeBP2qBE8DRLKwgWNMqMbqevkEDf4O",
+      "name": "qymypasir@mailinator.com",
+      "id": 4
+    },
+    {
+      "email": "wuloludo@mailinator.com",
+      "password": "$2a$10$IT6WXKKXxwx/RUr6iiYQBe/.rJdb0oMYkUhjvaZ3lW0/ziGmnl7xe",
+      "name": "suzi@mailinator.com",
+      "id": 5
+    },
+    {
+      "email": "nyrecekihi@mailinator.com",
+      "password": "$2a$10$0ZQJNtreNTevP.xcBwxequjGeeT/7m4Z71khO1kUl4H2rsmWOzUMq",
+      "name": "nikevi@mailinator.com",
+      "id": 6
+    },
+    {
+      "email": "bytonolod@mailinator.com",
+      "password": "$2a$10$2h/ePedkSQkVub.jwzIuueO./JvAwaulyrnBUYWISRKvxCi0OXVmu",
+      "name": "lyse@mailinator.com",
+      "id": 7
+    }
+  ],
+  "products": [
+    {
+      "name": "Malik Landry update ",
+      "category": "Shirt",
+      "brand": "Louis Vuitton",
+      "thumbnail": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?q=80&w=1888&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 591,
+      "discount": 55,
+      "description": "The first-ever 4K webcam that embeded AI technology to\nprotect your background during video calls.",
+      "id": 1
+    },
+    {
+      "name": "Inga Case",
+      "category": "Jean",
+      "brand": "Louis Vuitton",
+      "thumbnail": "https://plus.unsplash.com/premium_photo-1675431443027-ad1f46c93c8d?q=80&w=1916&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 811,
+      "discount": 74,
+      "description": "Ad debitis quo quos ",
+      "id": 2
+    },
+    {
+      "name": "Darius Maldonado",
+      "category": "Jean",
+      "brand": "Louis Vuitton",
+      "thumbnail": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?q=80&w=1999&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 9,
+      "discount": 0,
+      "description": "Est aut est laboru",
+      "id": 3
+    },
+    {
+      "name": "Lane Shields",
+      "category": "Jean",
+      "brand": "Chanel",
+      "thumbnail": "https://images.unsplash.com/photo-1629198688000-71f23e745b6e?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 373,
+      "discount": 42,
+      "description": "Mollit quas dicta cu",
+      "id": 4
+    },
+    {
+      "name": "Desirae Richards",
+      "category": "Electronics",
+      "brand": "Chanel",
+      "thumbnail": "https://images.unsplash.com/photo-1525904097878-94fb15835963?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 263,
+      "discount": 2,
+      "description": "Minim provident qui",
+      "id": 5
+    },
+    {
+      "name": "Scarlett Brown",
+      "category": "Electronics",
+      "brand": "Dior",
+      "thumbnail": "https://images.unsplash.com/photo-1491933382434-500287f9b54b?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 280,
+      "discount": 29,
+      "description": "Ex dolor laboriosam",
+      "id": 6
+    },
+    {
+      "name": "Harriet Rogers",
+      "category": "Shirt",
+      "brand": "Louis Vuitton",
+      "thumbnail": "https://plus.unsplash.com/premium_photo-1693011409963-5b303d112c42?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 946,
+      "discount": 30,
+      "description": "Voluptate ea illum ",
+      "id": 7
+    },
+    {
+      "name": "Joel Carver",
+      "category": "Shirt",
+      "brand": "Dior",
+      "thumbnail": "https://plus.unsplash.com/premium_photo-1673480195253-dc2229c109ef?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 263,
+      "discount": 55,
+      "description": "Aspernatur est quia ",
+      "id": 8
+    }
+  ]
+}
